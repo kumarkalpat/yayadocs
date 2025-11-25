@@ -1,9 +1,14 @@
 [
   {
     "id": "1",
-    "title": "Bhagavad Gita",
-    
-    "lyrics": "The Bhagavad Gita (Song of the Lord) is a 700-verse Hindu scripture that is part of the epic Mahabharata. It presents a dialogue between Prince Arjuna and his guide and charioteer, Lord Kṛsṇa.\n\nThe setting is the battlefield of Kuruksetra, just before the start of the great war between the Paṇḍavas and the Kauravas. Overwhelmed by moral dilemma and despair at the thought of fighting his own kinsmen, teachers, and friends, Arjuna refuses to fight.\n\nKṛsṇa then imparts transcendental knowledge, covering the principles of duty (Dharma), the nature of the soul (atman), devotion (Bhakti), action (Karma Yoga), and knowledge (Jñana Yoga). The 18 chapters of the Gita are often referred to as 18 Yogas (disciplines or paths to spiritual realization). The essence of the Gita is to encourage selfless action and devotion, regardless of worldly outcomes.",
-    "path": "bhagavadGita.json"
-  }  
+    "title": "Amba Mangalam",
+    "lyrics": "1. Amba mangalam jagadamba mangalam \nMangalaa roopuni gauri mangalam\n2.vani mangalam kalyani mangalam\nOmkara swarupini Devi mangalam\n3.Amba mangalam bramaraamba mangalam\nParama shivuni hrdhyarani gauri mangalam\n4.janani mangalam jagajanani mangalam\nMulloka sancharini Amma managalam\n5.shakthi mangalam shiva shakthi mangalam\nArdhanareeshwari gauri mangalam\n6. Lalitha mangalam shubha charitha mangalam\nSri tripura sundari Devi mangalam\n(Amba mangalam………)",
+    "musicFile": "Amba Mangalam.m4a"
+  },
+  {
+    "id": "2",
+    "title": "Gopala",
+    "lyrics": "Gopala Radha Lola murali Lola nandalala (2)\nKeshava Madhava janardhana (2)\nVanamala brindaavana baala (2)\nMurali Lola nanndalala(2)\nGopala Radha Lola\nMurali Lola nandalala\nMurali Lola nandalala\nHare nandalala\nHare nandala",
+    "musicFile": "Gopala.m4a"
+  }
 ]
