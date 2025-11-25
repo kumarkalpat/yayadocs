@@ -3,84 +3,98 @@
     "id": "1",
     "title": "Amba Mangalam",
     "lyrics": "1. Amba Mangalam Jagadamba Mangalam\nMangalaa Roopuni Gauri Mangalam\n2. Vani Mangalam Kalyani Mangalam\nOmkara Swarupini Devi Mangalam\n3. Amba Mangalam Bramaraamba Mangalam\nParama Shivuni Hrdhyarani Gauri Mangalam\n4. Janani Mangalam Jagajanani Mangalam\nMulloka Sancharini Amma Managalam\n5. Shakthi Mangalam Shiva Shakthi Mangalam\nArdhanareeshwari Gauri Mangalam\n6. Lalitha Mangalam Shubha Charitha Mangalam\nSri Tripura Sundari Devi Mangalam\n7. Amba Mangalam Jagadamba Mangalam\nMangalaa Roopuni Gauri Mangalam",
-    "musicFile": "Amba Mangalam.m4a"
+    "musicFile": "Amba Mangalam.m4a",
+    "category": "Geetham"
   },
   {
     "id": "2",
     "title": "Gopala",
     "lyrics": "1. Gopala Radha Lola Murali Lola Nandalala (2)\nKeshava Madhava Janardhana (2)\nVanamala Brindaavana Baala (2)\nMurali Lola Nanndalala (2)\n2. Gopala Radha Lola\nMurali Lola Nandalala\nMurali Lola Nandalala\nHare Nandalala\nHare Nandala",
-    "musicFile": "Gopala.m4a"
+    "musicFile": "Gopala.m4a",
+    "category": "Geetham"
   },
   {
     "id": "3",
     "title": "Hara Om",
     "lyrics": "1. Hara Om Hara Om Sadha Shiva\nHari Om Hari Om Narayana (2)\nPannaga Bhooshana Sadha Shiva\nPannaga Shayana Narayana\nKailash Vaasa Sadhshiva\nVaikunta Vaasa Narayana (Hara)\n2. Gowri Sametha Sadhashiva\nLakshmi Sametha Narayana\nShambho Mahadeva Sadhashiva\nAmbuja Nayana Narayana (Hara)\n3. Padma Vibhushitha Sadhashiva\nSrigandha Lebitha Narayana\nAndha Rakshka Sadhashiva\nAabath Baandhava Narayana\nHara Om Hara Om Sadha Shiva\nHari Om Hari Om Narayana (2)",
-    "musicFile": "Hara Om.m4a"
+    "musicFile": "Hara Om.m4a",
+    "category": "Geetham"
   },
   {
     "id": "4",
     "title": "Hey Murali Madhava",
     "lyrics": "0. Hey Murali Madhava Radhe Krishna Keshava\nKeshava Madhava Yadhava Nandana\nRadhe Krishna Jeya Gopal (2)\n1. Nanda Nandana Radhe Shyam\nIndhu Vadana Megha Shyam (2) Keshava….\n2. Baktha Vatsala Radhe Shyam Bhaagavathapriya Megha Shyam (2) Keshava….\n3. Kaaliya Nandana Radhe Shyam\nKamsa Nishooshadana Megha Shyam (2) Keshava…\n4. Paandu Ranga Radhe Shyam\nPandari Natha Megha Shyam (2) Keshava…\n5. Hey Murali Madhava Radhe Krishna Keshava\nRadhe Krishna Jeya Gopal\nRadhe Krishna Jeya Gopal",
-    "musicFile": "Hey Murali Madhava.m4a"
+    "musicFile": "Hey Murali Madhava.m4a",
+    "category": "Geetham"
   },
   {
     "id": "5",
     "title": "Jaya Ho Devi",
     "lyrics": "",
-    "musicFile": "Jaya Ho Devi.m4a"
+    "musicFile": "Jaya Ho Devi.m4a",
+    "category": "Geetham"
   },
   {
     "id": "6",
     "title": "Rama Nama Tharakam",
     "lyrics": "1. Rama Rama Rama Rama Rama Nama Thaarakam\nRama Krishna Vasudeva Bhakthi Mukthi Dayakam 2\n2. Janaki Manoharam Sarva Loka Nayakam (2)\nShankaradhi Sevyamana Punya Nama Keerthanam (2)\nRama………Dayakam\n3. Veera Shoora Vandhitham Raavanaadhi Naashakam (2)\nAanjaneya Jeeva Nama Raaja Mantra Roopakam (2)\nRama…………Dayakam \nRama Krishna Vasudeva Bhakthi Mukthi Dayakam (2)",
-    "musicFile": "Rama Nama Tharakam.m4a"
+    "musicFile": "Rama Nama Tharakam.m4a",
+    "category": "Geetham"
   },
   {
     "id": "7",
     "title": "Rama Raghava",
     "lyrics": "1. Rama Ragahava Jeya Seetha Naayaka (2)\nRama Raghava Raajeeva Lochana\nKamitha Phaladha Karivaradha (2)\n2. Krishna Keshava Jeya Gopi Vallabha (2)\nKrishna Yeshiva Ambuja Lochana\nVaanchitha Phaladha Yadhuvaradha (2)\nRama Ragahava Jeya Seetha Nayaka\nJeya Seetha Nayaka\nJeya Seetha Nayaka",
-    "musicFile": "RamaRaghava.m4a"
+    "musicFile": "RamaRaghava.m4a",
+    "category": "Geetham"
   },
   {
     "id": "8",
     "title": "Shivaya",
     "lyrics": "0. Shivaya Nama Om Shivaya Namaha\nShivaya Nama Om Nama Shivaya (2)\nShivaya Nama Om Shivaya Namha\nShivaya Nama Om Nama Shivaya (2)\n1. Shiva Shiva Shiva Shivaya Nama Om\nHara Hara Hara Narayana Nama Om (2)\nShivaya Nama Om Shivaya Namaha\nShivaya Nama Om Nama Shivaya\n2. Shiva Shiva Shanmukha Guhaya Nama Om\nHara Hara Hara Sharavana Bhavaya Nama Om (2)\nShivaya Nama Om Shivaya Namaha\nShivaya Nama Om Nama Shivaya (2)\nNama Shivaya Nama Shivaya",
-    "musicFile": "Shivaya.m4a"
+    "musicFile": "Shivaya.m4a",
+    "category": "Geetham"
   },
   {
     "id": "9",
     "title": "Sree Gananatha",
     "lyrics": "",
-    "musicFile": "Sree Gananatha.m4a"
+    "musicFile": "Sree Gananatha.m4a",
+    "category": "Geetham"
   },
   {
     "id": "10",
     "title": "Varuvai",
     "lyrics": "1. Varuvai Varuvai Varuvai Amma (2)\nThiruve Uruvai Varuvai Amma (2)\nIrulai Neekida Varuvai Amma (2)\nUndhan Arulai Pozindhidu Thaaye Amma (2)\nVaruvai Varuvai Varuvai Amma\nThiruve Uruvai Varuvai Amma\n2. Kalyani Karumaari Kamakshi Neeye (2)\nMahalakshmi Mathangi Meenakshi Neeye (2)\nVaralakshmi Vaaraahi Visalakshi Neeye (2)\nUlagaalum Maaye Prashanthi Thaaye (2)\nVaruvai ………",
-    "musicFile": "Varuvai.m4a"
+    "musicFile": "Varuvai.m4a",
+    "category": "Geetham"
   },
   {
     "id": "11",
     "title": "Dhattu Varisai 1",
     "lyrics": "",
-    "musicFile": "Dhattu Varisai 1.m4a"
+    "musicFile": "Dhattu Varisai 1.m4a",
+    "category": "Swaras"
   },
   {
     "id": "12",
     "title": "Janta Varisai Full",
     "lyrics": "",
-    "musicFile": "Janta Varisai Full.m4a"
+    "musicFile": "Janta Varisai Full.m4a",
+    "category": "Swaras"
   },
   {
     "id": "13",
     "title": "Upper Sthayi 1",
     "lyrics": "",
-    "musicFile": "Upper Sthayi 1.m4a"
+    "musicFile": "Upper Sthayi 1.m4a",
+    "category": "Swaras"
   },
   {
     "id": "13",
     "title": "Upper Sthayi 2",
     "lyrics": "",
-    "musicFile": "Upper Sthayi 2.m4a"
+    "musicFile": "Upper Sthayi 2.m4a",
+    "category": "Swaras"
   }
 ]
